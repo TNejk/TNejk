@@ -4,6 +4,7 @@
 - 👶 Started coding since 2021
 - 🛠 Experienced in Python, Arduino C, Flask framework and Oracle DB
 - 🎬 Small not active YouTube creator
+- 🚀 Participant of the competition CanSat Slovakia 
 -------
 
 <p align="center">
