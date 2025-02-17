@@ -2,7 +2,7 @@
 
 - 📖 Graduating in administration of intelligent and digital systems field
 - 👶 Started coding since 2021
-- 🛠 Experienced in Python, Arduino C, Flask framework
+- 🛠 Experienced in Python, Arduino C, Flask framework and Oracle DB
 - 🎬 Small not active YouTube creator
 -------
 
