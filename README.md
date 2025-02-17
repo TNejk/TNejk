@@ -8,5 +8,5 @@
 -------
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TNejk&show_icons=true&theme=transparent" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TNejk" />
 </p>
