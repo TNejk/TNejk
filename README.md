@@ -8,5 +8,5 @@
 -------
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNejk" />
+    <img align="center" src="https://private-readme-stats-lovat.vercel.app/api/top-langs/?username=TNejk&layout=compact&theme=transparent&hide_title=true&hide_border=true" />
 </p>
