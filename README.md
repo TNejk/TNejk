@@ -2,7 +2,7 @@
 
 - 📖 Graduated in administration of intelligent and digital systems field
 - 👶 Coding since 2021
-- 🛠 Experienced in Python, Arduino C, Flask framework and Oracle DB
+- 🛠 Experienced in Python, Arduino C, Flask framework (frontend and api) and PostgreSQL
 - 🎬 Small, not active YouTube creator
 - 🚀 Participant of the national CanSat Slovakia competiton 
 -------
