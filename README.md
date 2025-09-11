@@ -1,10 +1,10 @@
 <h2 align="center"><img src="https://cdn3.emoji.gg/emojis/2811-duckyflippers.gif" height="32px"> Hi, name's Michal!</h2>
 
-- 📖 Graduated in administration of intelligent and digital systems field
+- 📖 Studying Programming and development on MUNI FI
 - 👶 Coding since 2021
 - 🛠 Experienced in Python, Arduino C, Flask framework (frontend and api) and PostgreSQL
 - 🎬 Small, not active YouTube creator
-- 🚀 Participant of the national CanSat Slovakia competiton 
+- 🚀 2 times participant of the national CanSat Slovakia competiton 
 -------
 
 <p align="center">
