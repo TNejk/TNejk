@@ -2,8 +2,7 @@
 
 - 📖 Studying Programming and development on MUNI FI
 - 👶 Coding since 2021
-- 🛠 Experienced in Python, Arduino C, Flask framework (frontend and api) and PostgreSQL
-- 🎬 Small, not active YouTube creator
+- 🛠 Experienced in Python, Arduino C, Flask, FastAPI and PostgreSQL
 - 🚀 2 times participant of the national CanSat Slovakia competiton 
 -------
 
